@@ -1,0 +1,20 @@
+{
+  "name": "boangri/epochta-sms",
+  "description": "ePochta SMS service API",
+  "keywords": ["sms", "api", "ePochta"],
+  "homepage": "https://github.com/boangri/epochta-sms",
+  "type": "project",
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+    "forum": "http://www.yiiframework.com/forum/",
+    "wiki": "http://www.yiiframework.com/wiki/",
+    "irc": "irc://irc.freenode.net/yii",
+    "source": "https://github.com/yiisoft/yii2"
+  },
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.2.0"
+  }
+}
