@@ -12,9 +12,12 @@
     "irc": "irc://irc.freenode.net/yii",
     "source": "https://github.com/yiisoft/yii2"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.2.0"
+  },
+  "autoload": {
+    "psr-4": {"\\": "api/"}
   }
 }
